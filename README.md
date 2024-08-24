@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Java,C/C++, Algorithms**
+- 💬 Ask me about **Core Java, Data Structures and Algorithms**
 
 - 📫 How to reach me **connectwithmayanksharma@gmail.com**
 
